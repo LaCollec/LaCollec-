@@ -225,7 +225,7 @@ const cars = [
       ["Moteur", "1.6L HDi Diesel"],
       ["Puissance", "92 ch"],
       ["Génération", "1ère génération, phase 1"],
-      ["Boîte", "Manuelle"],
+      ["Boîte", "Automatique"],
       ["Carrosserie", "Crossover compact"],
     ]
   },
